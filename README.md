@@ -19,4 +19,5 @@ else:
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Energia](https://img.shields.io/badge/Energia-Eficiente-brightgreen?style=for-the-badge&logo=leaf&logoColor=white)
     
